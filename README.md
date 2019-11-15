@@ -7,8 +7,9 @@
 - Jose Francisco Castillo Rodriguez
 - Sergio Uriel Galarza Quiñonez
 - Xochitl Veronica Silvestre Guitierrez
+- Elias Sanchez Perez
 
-## Tematica
+### Tematica
 - Salud
 - Tecnologia
 
