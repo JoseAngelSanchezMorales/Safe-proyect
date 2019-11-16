@@ -1,0 +1,24 @@
+{
+  "name": "safe-proyect",
+  "version": "1.0.0",
+  "description": "Proyecto hackaton 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAngelSanchezMorales/Safe-proyect.git"
+  },
+  "keywords": [
+    "#Hackathon19",
+    "#API",
+    "#Node.js"
+  ],
+  "author": "Iniciativa Advenger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAngelSanchezMorales/Safe-proyect/issues"
+  },
+  "homepage": "https://github.com/JoseAngelSanchezMorales/Safe-proyect#readme"
+}
